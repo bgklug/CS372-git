@@ -4,5 +4,6 @@ My first commit is boring.
 
 I have spent two weeks in Antarctica. 
 The food here is bland. 
-I can't wait to go home.
+The weather is warmer than Fairbanks.
 
+I can't wait to go home.
