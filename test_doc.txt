@@ -2,4 +2,5 @@ This is my document.
 
 My first commit is boring.
 
-I have spent two weeks in Antarctica. 
+I have spent two weeks in Antarctica.
+The food here is bland. 
